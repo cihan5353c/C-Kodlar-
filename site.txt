@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>ÖZGÜR KUTLU</h1>
+
+<p></p>
+
+<p></p>
+
+<button onclick="http://www.animatedimages.org/data/media/510/animated-light-bulb-image-0023.gif'">IÞIÐI YAK</button>
+
+<img  src="http://www.animatedimages.org/data/media/510/animated-light-bulb-image-0023.gif" style="width:200px">
+
+<button onclick="http://www.animatedimages.org/data/media/510/animated-light-bulb-image-0023.gif">IÞIÐI KAPAT</button>
+
+<button onclick>CONNED</botton>
+
+<button onclick="http://www.animatedimages.org/data/media/510/animated-light-bulb-image-0023.gif'">IÞIÐI YAK</button>
+
+<img  src="http://www.animatedimages.org/data/media/510/animated-light-bulb-image-0023.gif" style="width:200px">
+<n></n>
+
+<button onclick="http://www.animatedimages.org/data/media/510/animated-light-bulb-image-0023.gif" style="width:100px">IÞIÐI KAPAT</button>
+
+</body>
+</html>
